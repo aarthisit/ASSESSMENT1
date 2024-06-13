@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_View</name>
+   <tag></tag>
+   <elementGuidId>014b290a-7388-4a4d-a371-2880de1bb5d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.bottom-0.end-0.text-end</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pills-admn']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Admission&quot;i >> internal:role=paragraph</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8fd3ad9c-972e-4d63-a4e4-76c5f6154e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bottom-0 end-0 text-end</value>
+      <webElementGuid>d37aa04c-ccbf-499c-9fd9-e44ca3a97e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        View
+                    </value>
+      <webElementGuid>1fd36732-5040-4598-9830-c68ad8c29ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pills-admn&quot;)/p[@class=&quot;bottom-0 end-0 text-end&quot;]</value>
+      <webElementGuid>b3186023-7da9-49ea-a054-4f1e7acf8f5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pills-admn']/p</value>
+      <webElementGuid>faabadef-2a6e-4ae2-beef-bcbaa0b4b5c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information Brochure Ph.D. Programme 2023 and State Funded Fellowship 2023'])[1]/following::p[1]</value>
+      <webElementGuid>3a112af2-3e3e-4f86-b8b0-d03f8a8b6b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Important Instructions for Admission to Ph.D. Programme, 2023'])[1]/following::p[1]</value>
+      <webElementGuid>1469a0d1-5464-43d2-87b7-109f0c9d5d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification for Form Fill Up of UG Semester-I Examinations, 2023'])[1]/preceding::p[1]</value>
+      <webElementGuid>8d084ffc-5bca-4915-b5de-7295eec5d637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div/div/div/p</value>
+      <webElementGuid>15d9fb7c-2bbb-4054-8de4-477405359d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+                        View
+                    ' or . = '
+                        View
+                    ')]</value>
+      <webElementGuid>c100e767-6488-457a-80bb-0ec30cdf04bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

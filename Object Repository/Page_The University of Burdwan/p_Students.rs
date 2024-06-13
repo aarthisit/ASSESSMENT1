@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Students</name>
+   <tag></tag>
+   <elementGuidId>5a4be6d1-557b-401c-be8f-61a0d24e7908</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-2.ms-2.counter-box.text-center > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='section-counters']/div/div[4]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Students&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>29193fa3-c44e-419e-b4f9-39b49ce0f886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Students</value>
+      <webElementGuid>62ecbbae-2653-4470-bceb-43a9fba090d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-counters&quot;)/div[@class=&quot;row counters p-3 my-1 mx-4 text-center&quot;]/div[@class=&quot;col-lg-2 ms-2 counter-box text-center&quot;]/p[1]</value>
+      <webElementGuid>a9583d6e-47c3-4ade-af16-be9730693ea0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='section-counters']/div/div[4]/p</value>
+      <webElementGuid>7029ea71-8091-4751-93b8-bd1b2c21b630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification regarding Mediclaim'])[1]/following::p[4]</value>
+      <webElementGuid>c67d2b65-fbfe-4bde-bf4e-9cf96eb7f7f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vision &amp; Mission'])[2]/preceding::p[2]</value>
+      <webElementGuid>27668e41-3bf3-42b2-a2bb-eca0c65e6d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/preceding::p[3]</value>
+      <webElementGuid>bf345d7d-3805-4c52-8db6-b2ae0967e919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Students']/parent::*</value>
+      <webElementGuid>55dde27f-8f1f-41ca-9e1c-2e4689eb09bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/p</value>
+      <webElementGuid>04e50f7d-3e12-48dc-9e78-b7a2fbf263cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Students' or . = 'Students')]</value>
+      <webElementGuid>5b63d1d5-773e-4b71-8023-2d5a5bd26047</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

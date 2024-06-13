@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_University Profile</name>
+   <tag></tag>
+   <elementGuidId>45512dc0-ed0a-4fc2-b0f6-983e274fc818</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.submenu_subheader</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNavDropdown']/ul/li[2]/ul/div/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;University Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>33be1b37-bd07-4ad8-8310-8fa60a3fe6bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submenu_subheader</value>
+      <webElementGuid>ad763dc2-2a62-4df6-9af3-2a7d2baf0044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Template.php?menu=AboutUs&amp;submenu=UnivProfile</value>
+      <webElementGuid>3f3145cd-ef0c-4880-b1bf-8d9d5e15d666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>University Profile</value>
+      <webElementGuid>609654e9-2aba-4542-9e67-021067816207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarNavDropdown&quot;)/ul[@class=&quot;nav navbar-nav homemenu&quot;]/li[@class=&quot;nav-item dropdown position-static&quot;]/ul[@class=&quot;dropdown-menu wide-menu show&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/ul[@class=&quot;multi-column-dropdown level-2&quot;]/li[1]/a[@class=&quot;submenu_subheader&quot;]</value>
+      <webElementGuid>e9132de0-e2f0-4ede-bc27-800b9793214d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNavDropdown']/ul/li[2]/ul/div/div/div/ul/li/a</value>
+      <webElementGuid>9bb590ee-8288-4b32-bc79-d58889ba3d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'University Profile')]</value>
+      <webElementGuid>623f1674-7060-496c-b7a7-900ca7a99819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>9bd4f44b-1226-43b7-8c98-a7f13f7617a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/preceding::a[1]</value>
+      <webElementGuid>c7caae94-b7fe-4028-ac7f-589a77372444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vision &amp; Mission'])[1]/preceding::a[2]</value>
+      <webElementGuid>d723cc87-d403-46c0-a644-e7207602e61e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='University Profile']/parent::*</value>
+      <webElementGuid>5f4dfb29-371b-4027-b295-0452e06969e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Template.php?menu=AboutUs&amp;submenu=UnivProfile')]</value>
+      <webElementGuid>6500ccc6-a3ba-41bb-b552-19cc529dfcfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/ul/li/a</value>
+      <webElementGuid>e6b1262d-80a3-4ca7-9cef-0cb7e0a2e3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Template.php?menu=AboutUs&amp;submenu=UnivProfile' and (text() = 'University Profile' or . = 'University Profile')]</value>
+      <webElementGuid>ba5b7f5d-53b2-4895-b323-7c523dd2bc48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

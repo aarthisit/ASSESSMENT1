@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_The University of Burdwan</name>
+   <tag></tag>
+   <elementGuidId>fbadc235-cd31-4dc8-adaf-7b3247131702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.home-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home']/div/div/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;বর্ধমান বিশ্ববিদ্যালয় The University of Burdwan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8f00071a-42a8-45a8-88b0-4e94b48fafc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>home-title</value>
+      <webElementGuid>19f41e10-2b91-451d-935d-c84d28828e7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>বর্ধমান বিশ্ববিদ্যালয়The University of Burdwan</value>
+      <webElementGuid>71caaee9-87eb-4fdc-80f9-c30b875f3f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/div[@class=&quot;container logo-section&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5 col-xs-5 pt-3&quot;]/h1[@class=&quot;home-title&quot;]</value>
+      <webElementGuid>869fc786-61c1-4129-9b4b-33932cb94efb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home']/div/div/div[2]/h1</value>
+      <webElementGuid>04917c5c-c6a1-4043-a48c-3abdff44d3db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NAD-Digilocker'])[1]/following::h1[1]</value>
+      <webElementGuid>7a83173f-1e39-464c-83c4-b7934321980b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EOC'])[1]/following::h1[1]</value>
+      <webElementGuid>ee864e93-b2cb-48d9-80c7-b997f3209f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::h1[1]</value>
+      <webElementGuid>70f835b8-59bd-4a3f-a3b0-5333597b5d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='বর্ধমান বিশ্ববিদ্যালয়']/parent::*</value>
+      <webElementGuid>65672e50-9ec1-4b4d-9b77-d6465b8c3988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>3962d382-7ee2-410c-9353-c3c115e4ab1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'বর্ধমান বিশ্ববিদ্যালয়The University of Burdwan' or . = 'বর্ধমান বিশ্ববিদ্যালয়The University of Burdwan')]</value>
+      <webElementGuid>2e73c2bf-37c4-4438-978b-c6fa85da7065</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

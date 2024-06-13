@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Arabic</name>
+   <tag></tag>
+   <elementGuidId>cdab46e8-4081-4b02-a09f-c58532e1c905</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.card.shadow-v1.align-items-center.p-4.text-decoration-none.crs-col.crs-bgcol_2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Faculty Council of Arts, Law, etc.'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Arabic&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6d0a6b7a-d182-45e3-a531-dcf6ab5ecdda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card shadow-v1 align-items-center p-4 text-decoration-none crs-col crs-bgcol_2</value>
+      <webElementGuid>1afa7103-c46b-489b-b077-05bcaf734c4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Template.php?menu=ADEP&amp;submenu=FCA&amp;depcode=ARBC</value>
+      <webElementGuid>f47b8299-bff2-4e2a-976a-3f1240fbf720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Arabic
+                                </value>
+      <webElementGuid>fd5e0a1a-d23d-47bc-bfaf-23ba67c8b9bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;main-content&quot;]/div[@class=&quot;content-area-all&quot;]/div[@class=&quot;content_outline&quot;]/section[@class=&quot;padding-y-60 bg-light all_page_&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 my-3&quot;]/a[@class=&quot;card shadow-v1 align-items-center p-4 text-decoration-none crs-col crs-bgcol_2&quot;]</value>
+      <webElementGuid>f6dbf5c1-5520-4042-a76f-9b84e0943a63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Faculty Council of Arts, Law, etc.'])[1]/following::a[1]</value>
+      <webElementGuid>d29b04f3-7239-4e95-847d-a3ba5f9d0852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Faculty Council of Arts, law, etc.'])[1]/following::a[1]</value>
+      <webElementGuid>e9bcd03c-16b9-4abe-a9a7-b2a7f9d4c834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bengali'])[1]/preceding::a[1]</value>
+      <webElementGuid>ca634baa-fafa-41c7-aae4-1c76f2b00936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Template.php?menu=ADEP&amp;submenu=FCA&amp;depcode=ARBC')]</value>
+      <webElementGuid>7c2cf8bb-7de8-47b5-87f3-a52ac2ab8ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/a</value>
+      <webElementGuid>84003477-899b-4d87-a9f7-b56420f46f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Template.php?menu=ADEP&amp;submenu=FCA&amp;depcode=ARBC' and (text() = '
+                                    Arabic
+                                ' or . = '
+                                    Arabic
+                                ')]</value>
+      <webElementGuid>97ba3649-2b82-4642-b7bc-b714a9662b13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
